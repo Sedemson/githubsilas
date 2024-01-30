@@ -1,6 +1,14 @@
 # Plato's Pizza Project
+## Table of Content
 
+- [Project  Overview](#project-overview)
+- [Source of Data](#source-of-dta)
+- [Tools Used for the project](#tools-used-for-the-project)
+- [Data Cleaning and Prepartion Process](#data-cleaning-and-prepartion-process)
+- [Data Exploration and Analysis (EDA)](#data-exploration-and-analysis-(EDA))
+- [Reccomendtion](#recommendtion)
 ## Project  Overview
+
 This data analysis project aims to provide insights into the sales performamce of a pizza restaurant called (PLATO'S PIZZA) by analysing the data they collected over a three years period. Acting as the BI consultant i analyzed various aspect of the sales data and seek to idenify trends, make data driven recommendations and gain a deeper understanding of the performance of Plato's Pizza.
 
 ### Source of Data
@@ -152,7 +160,7 @@ D. Average order_Value
 `` Dax
 Average_Order_Value = [Total Revenue]/[Total_Orders]
 
-## Reccommenations
+## Recommenations
 Based on the analysis, i reccommend the following:
 - Plato's must invest in marketing and promotion during peak periods and also increase the number of seats during this peake periods
 - Plato's should Focus on slowing introduce worse selling pizza to customers. This can be done by using these pizzas as promotional sales strtegies.
