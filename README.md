@@ -160,7 +160,7 @@ D. Average order_Value
 `` Dax
 Average_Order_Value = [Total Revenue]/[Total_Orders]
 
-## Recommenations
+## Recommendations
 Based on the analysis, i reccommend the following:
 - Plato's must invest in marketing and promotion during peak periods and also increase the number of seats during this peake periods
 - Plato's should Focus on slowing introduce worse selling pizza to customers. This can be done by using these pizzas as promotional sales strtegies.
