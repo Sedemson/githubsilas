@@ -143,7 +143,7 @@ A. Calculated table
   - Date
 `` DAX
 Date= Calender "1/1/2015", "9/15/2017"
-B. Calculate column
+B. Calculated column
 
 C. KPI
 
